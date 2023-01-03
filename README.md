@@ -1,8 +1,8 @@
 # Facts about Flying Infographic
 
-![Project Image](project-image-url)
+<!-- ![Project Image](project-image-url)
 
-> This is a ReadMe template to help save you time and effort.
+> This is a ReadMe template to help save you time and effort. -->
 
 ---
 
